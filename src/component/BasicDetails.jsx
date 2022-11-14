@@ -4,9 +4,9 @@ const BasicDetails = () => {
 
     return(
        <>
-        <div>Shivam Shankhyadhar</div>
+        <h2>Shivam Shankhyadhar</h2>
 
-        <h3>Software Developer</h3>
+        <h5>Software Developer</h5>
         </>
     )
 }

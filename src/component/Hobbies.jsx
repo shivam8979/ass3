@@ -3,14 +3,14 @@ import React from 'react'
 const Hobbies = () =>{
     return(
         <>
-           <div>Hobbies</div>
+           <h3>Hobbies</h3>
 
-           <ol>
-            <li>Java</li>
-            <li>c++</li>
-            <li>c</li>
-            <li>react</li>
-           </ol>
+           <ul>
+            <li>Reading Book</li>
+            <li>Playing cricket</li>
+            <li>bike </li>
+            <li>song</li>
+           </ul>
         </>
     )
 }

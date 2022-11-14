@@ -1,9 +1,16 @@
 import  react  from 'react'
 const Skills = () =>{
     return(
-        <div>
-            Skills
-        </div>
+       
+       <>
+          <h3>Skills</h3>
+        <ul>
+            <li>Java</li>
+            <li>c++</li>
+            <li>c</li>
+            <li>react</li>
+        </ul>
+        </>
     )
 }
 
